@@ -1,6 +1,7 @@
 # Visual Studio
 *.sdf
 *.opensdf
+.vs/
 Debug/
 
 # XCode
